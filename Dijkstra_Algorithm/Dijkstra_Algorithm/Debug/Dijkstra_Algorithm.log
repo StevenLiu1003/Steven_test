@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\wei chih liu\documents\visual studio 2015\projects\dijkstra_algorithm\dijkstra_algorithm\source.cpp(17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Dijkstra_Algorithm.vcxproj -> C:\Users\Wei Chih Liu\Documents\Visual Studio 2015\Projects\Dijkstra_Algorithm\Debug\Dijkstra_Algorithm.exe
+  Dijkstra_Algorithm.vcxproj -> C:\Users\Wei Chih Liu\Documents\Visual Studio 2015\Projects\Dijkstra_Algorithm\Debug\Dijkstra_Algorithm.pdb (Partial PDB)
